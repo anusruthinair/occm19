@@ -14,7 +14,7 @@ public static void main(String[] args) {
 	
 	Demo1 d=new Demo1();
 	String rev=d.revString("anusruthi");
-	System.out.println(rev);
+	
 	
 }
 }
